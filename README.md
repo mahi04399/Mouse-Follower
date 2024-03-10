@@ -1,1 +1,1 @@
-A program that follows your mouse.
+A React program that follows your mouse.
